@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a Frontend Developer
 ------------------
 
-I have been learning to code for 2 years. Started with a bit of python and then figured out web development is more fun. After making the decision to switch career last year, I went and completed a Web Dev Bootcamp and have been enjoying making web application and websites.
+I have been learning to code for 2 years. Started with a bit of python and then found out web development is more fun. After making the decision to switch career last year, I went and completed a Web Dev Bootcamp and have been enjoying making web application and websites.
 
 * 🌍  I'm based in Melbourne, Australia
 * 🖥️  See my portfolio at [Zhonghe's Portfolio](http://myapp.com)
