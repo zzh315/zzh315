@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * 🌍  I'm based in Melbourne, Australia
 * 🖥️  See my portfolio at [Zhonghe's Portfolio](https://zzh315.github.io/portfolio/)
 * ✉️  You can contact me at [zhengzh315@gmail.com](mailto:zhengzh315@gmail.com)
-* 🧠  I'm learning NextJs, Typescript
+* 🧠  I'm learning Spring Boot
 
 ### Skills
 
