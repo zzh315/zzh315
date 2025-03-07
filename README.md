@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)" width="36" height="36" alt="Spring Boot" />
-</a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 
 </p>
 
